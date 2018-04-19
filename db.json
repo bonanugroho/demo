@@ -8,6 +8,83 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "masterdata": [
+    {
+        "Name": "Innovation",
+        "Levels": [
+            {
+                "RecognitionId": 10,
+                "LevelId": 1,
+                "LevelName": "Start"
+            },
+            {
+                "RecognitionId": 9,
+                "LevelId": 2,
+                "LevelName": "Keystep"
+            },
+            {
+                "RecognitionId": 1,
+                "LevelId": 3,
+                "LevelName": "Breakthrough"
+            },
+            {
+                "RecognitionId": 3,
+                "LevelId": 4,
+                "LevelName": "Disruptive"
+            }
+        ]
+    },
+    {
+        "Name": "Mastery",
+        "Levels": [
+            {
+                "RecognitionId": 2,
+                "LevelId": 1,
+                "LevelName": "Rookie"
+            },
+            {
+                "RecognitionId": 11,
+                "LevelId": 2,
+                "LevelName": "Advanced"
+            },
+            {
+                "RecognitionId": 6,
+                "LevelId": 2,
+                "LevelName": "Expert"
+            },
+            {
+                "RecognitionId": 7,
+                "LevelId": 4,
+                "LevelName": "Guru"
+            }
+        ]
+    },
+    {
+        "Name": "TeamPlayer",
+        "Levels": [
+            {
+                "RecognitionId": 12,
+                "LevelId": 1,
+                "LevelName": "Helpfull"
+            },
+            {
+                "RecognitionId": 5,
+                "LevelId": 2,
+                "LevelName": "Resourceful"
+            },
+            {
+                "RecognitionId": 4,
+                "LevelId": 3,
+                "LevelName": "Contributive"
+            },
+            {
+                "RecognitionId": 8,
+                "LevelId": 4,
+                "LevelName": "ExtraMile"
+            }
+        ]
+    }
+],
   "profile": {
     "name": "typicode"
   }
