@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "timelines": [
     { "id": 1, "title": "Post ke satu" },
     { "id": 2, "title": "Post ke dua" },
     { "id": 3, "title": "Post ke tiga" }
